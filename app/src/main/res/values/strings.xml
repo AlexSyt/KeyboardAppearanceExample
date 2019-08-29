@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KeyboardAppearanceExample</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="click_me">Click Me</string>
+    <string name="show_bottom_sheet">Show BottomSheet</string>
+    <string name="animate_keyboard">Animate Keyboard</string>
+    <string name="use_custom_padding">Use custom padding</string>
+</resources>
